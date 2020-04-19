@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "تطيبق PWA",
+  "short_name": "مرحباً",
  "icons": [{
             "src": "images/icon-72x72.png",
             "sizes": "72x72",
@@ -43,7 +43,7 @@
         }
     ],
   "lang": "en-US",
-  "start_url": "https://riyadkhalifeh.github.io/PWA-Pure-HTML-CSS-Javascript/",
+  "start_url": "./PWA-Pure-HTML-CSS-Javascript/",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"
