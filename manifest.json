@@ -1,10 +1,7 @@
 {
-    "theme_color": "#2196f3",
-    "background_color": "#2196f3",
-    "display": "browser",
-    "Scope": "/",
-    "start_url": "/index.html",
-    "icons": [{
+  "name": "Hello World",
+  "short_name": "Hello",
+ "icons": [{
             "src": "images/icon-72x72.png",
             "sizes": "72x72",
             "type": "image/png"
@@ -45,5 +42,9 @@
             "type": "image/png"
         }
     ],
-    "splash_pages": null
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
 }
