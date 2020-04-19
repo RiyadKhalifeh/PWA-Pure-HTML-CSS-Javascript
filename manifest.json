@@ -43,7 +43,7 @@
         }
     ],
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "https://riyadkhalifeh.github.io/PWA-Pure-HTML-CSS-Javascript/",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"
