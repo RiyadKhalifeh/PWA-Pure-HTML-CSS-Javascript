@@ -23,7 +23,7 @@ self.addEventListener('install', e => {
 
     e.waitUntil(
         caches.open('site-static').then(cache => {
-            cache.addAll(['/', './index.html'])
+            cache.addAll(['/', './PWA-Pure-HTML-CSS-Javascript'])
         })
     )
 
